@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+h1{  
+    color: darkred;
+
+}
+h3{
+    color: darkorange;
+    text-transform:uppercase;
+
+}
+.poster{
+    width: 75%;
+    margin-left: 12.5%;
+    margin-top: 50px;
+    font-family: 'Teko', sans-serif;
+    text-align: center;
+
+}
+.mov{
+    border: 5px solid snow;
+    width: 100%;
+}
